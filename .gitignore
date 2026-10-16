@@ -1,0 +1,12 @@
+# Virtual environment (thousands of files, easy to recreate)
+.venv/
+
+# The dataset (150 MB, too big for GitHub; anyone can download it from Kaggle)
+data/
+
+# Python clutter
+__pycache__/
+*.pyc
+
+# Notebook auto-save checkpoints
+.ipynb_checkpoints/
